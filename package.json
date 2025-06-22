@@ -19,7 +19,9 @@
 		"zod": "^3.25.67"
 	},
 	"devDependencies": {
+		"@types/node": "^24.0.3",
 		"marked": "^15.0.12",
+		"node-fetch": "^3.3.2",
 		"typescript": "^5.8.3",
 		"workers-mcp": "^0.0.13",
 		"wrangler": "^4.20.1"
