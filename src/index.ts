@@ -10,7 +10,7 @@ export class GmailMCP extends McpAgent {
     });
     
     token: string | null = null;
-    baseUrl = "hhttps://googleauth.ishikabhoyar2005.workers.dev/";
+    baseUrl = "https://googleauth.ishikabhoyar2005.workers.dev/";
 
     async init() {
         // Authentication tool
